@@ -9,10 +9,10 @@ A project to display floating point numbers on [seven-segment display](https://e
 
 # Detail?
 - Circuit diagram
-[!circuit diagram](circuit.png)
+[!circuit diagram](./circuit.png)
 
-- Source code
+- Source code  
 see `7seg_test.ino`
 
 - Result
-[!movie](movie.gif)
+[!movie](./movie.gif)
