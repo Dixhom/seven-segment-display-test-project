@@ -11,11 +11,11 @@ Given a number like 1.23, to display something like [ ][1].[2][3] on the seven-s
 - Good algorithm to convert a floating point number in a program to the flashing of each LED segment on the display. 
 
 # Detail?
-- Circuit diagram
-[!circuit diagram](./circuit.png)
+- Circuit diagram  
+[circuit.png](circuit.png)
 
 - Source code  
-see `7seg_test.ino`
+[7seg_test.ino](7seg_test.ino)  
 
-- Result
-[!movie](./movie.gif)
+- Result  
+[movie.gif](movie.gif)
