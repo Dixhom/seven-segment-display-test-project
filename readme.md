@@ -1,7 +1,7 @@
 # Seven-segment display test project
 
 # What Is This?
-A project to display floating point numbers on 4 [seven-segment displays](https://en.wikipedia.org/wiki/Seven-segment_display).
+A project to display a number on 4 [seven-segment displays](https://en.wikipedia.org/wiki/Seven-segment_display).
 
 # Goal?
 Given a number like 1.23, to display something like [ ][1].[2][3] on the seven-segment displays.
